@@ -16,7 +16,13 @@ export default function CardDemo() {
           <Card className="w-full-max-w-sm">
             <CardHeader>
                 <CardTitle>Login to your account</CardTitle>
+                <CardDescription>
+                    Enter our email below to login
+                </CardDescription>
             </CardHeader>
+            <CardContent>
+                
+            </CardContent>
 
           </Card>
 
